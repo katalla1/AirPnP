@@ -25,7 +25,7 @@ export default function LoginScreen() {
                     <>
                         <View style={styles.inputFields}>
                             <AppTextInput 
-                                 autoCapitalize="none"
+                                autoCapitalize="none"
                                 autoCorrect={false}
                                 icon="email"
                                 keyboardType="email-address"
