@@ -52,7 +52,6 @@ export default function LoginScreen() {
                 )}
             </Formik>
             
-            
             <View style= {styles.registerButton}>
                 <AppButton  title= "Register"/>
             </View>
